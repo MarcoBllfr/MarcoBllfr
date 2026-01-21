@@ -2,7 +2,7 @@
 ## 👋 Hi there!
 My name is **Marco**, I’m a ** Web Developer** with a strong focus on **Svelte**.  <br>I love building clean, fast, and interactive web experiences.  
 🔭 **I’m currently working on**  <br>- Web applications with **Svelte / SvelteKit**  <br>- Improving UI/UX and performance in modern front-end apps 
-🌱 **I’m currently learning**  <br>- Advanced **JavaScript & TypeScript**  <br>- Better front-end architecture  
+<br>🌱 **I’m currently learning**  <br>- Advanced **JavaScript & TypeScript**  <br>- Better front-end architecture  
 
 
 ## 🌐 Socials:
