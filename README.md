@@ -1,25 +1,67 @@
-# 💫 About Me:
-## 👋 Hi there!
-My name is **Marco**, I’m a **Web Developer** with a strong focus on **Svelte**.  <br>I love building clean, fast, and interactive web experiences.  
+# Marco Bellafiore
 
-🔭 **I’m currently working on**  <br>- Web applications with **Svelte / SvelteKit**  <br>- Improving UI/UX and performance in modern front-end apps 
-<br>
-🌱 **I’m currently learning**  <br>- Advanced **JavaScript & TypeScript**  <br>- Better front-end architecture  
+### Frontend / Mobile Developer
 
+I’m a developer focused on building modern and user-friendly applications.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcobllfr) 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat&logo=google-chrome)](https://www.marcobf.dev/)
+My main focus is **frontend development**, especially **Svelte / SvelteKit**.  
+I’m also expanding into **mobile development with Kotlin Multiplatform**, exploring shared architecture, local persistence and cross-platform UI.
 
+I enjoy solving problems, learning new technologies and paying attention to the details that make an application feel polished.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarcoBllfr&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarcoBllfr&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBllfr&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![Website](https://img.shields.io/badge/Website-marcobf.dev-2FBF71?style=flat&logo=google-chrome&logoColor=white)](https://www.marcobf.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-46306D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcobllfr)
+[![GitHub](https://img.shields.io/badge/GitHub-17131A?style=flat&logo=github&logoColor=white)](https://github.com/MarcoBllfr)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MarcoBllfr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack
+
+### Frontend
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-000000?style=flat&logo=svelte&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Mobile
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-6C63FF?style=flat&logo=android&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-2E7D32?style=flat&logo=kotlin&logoColor=white)
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-17131A?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoBllfr&show_icons=true&hide_border=true&title_color=2FBF71&text_color=46306D&icon_color=2FBF71&bg_color=00000000" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBllfr&layout=compact&hide_border=true&title_color=2FBF71&text_color=46306D&bg_color=00000000" height="165" />
+</p>
+
+---
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-marcobf.dev-2FBF71?style=flat&logo=google-chrome&logoColor=white)](https://www.marcobf.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-46306D?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcobllfr)
